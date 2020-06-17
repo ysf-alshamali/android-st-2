@@ -1,0 +1,13 @@
+public class HelloWorld{
+
+     public static void main(String []args){
+         int x = 17;
+         double y = 2.53;
+         char b = 'H';
+         
+         
+        System.out.println(x);
+        System.out.println(y);
+        System.out.println(b);
+     }
+}
